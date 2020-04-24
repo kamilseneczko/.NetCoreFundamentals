@@ -1,0 +1,12 @@
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\bin\Debug\netcoreapp3.1\OdeToFoot.Data.deps.json
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\bin\Debug\netcoreapp3.1\OdeToFoot.Data.dll
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\bin\Debug\netcoreapp3.1\OdeToFoot.Data.pdb
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.csprojAssemblyReference.cache
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.csproj.CoreCompileInputs.cache
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.AssemblyInfoInputs.cache
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.AssemblyInfo.cs
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.csproj.CopyComplete
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.dll
+C:\Users\synek\source\repos\OdeToFood\OdeToFoot.Data\obj\Debug\netcoreapp3.1\OdeToFoot.Data.pdb
